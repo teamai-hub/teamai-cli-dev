@@ -1,0 +1,41 @@
+username: jeff-r2026
+updatedAt: 2026-09-20T11:33:41.666Z
+skills:
+  teamai:
+    count: 1
+    lastUsed: 2026-09-20T11:09:48.516Z
+  vertical-clip:
+    count: 1
+    lastUsed: 2026-09-20T11:21:15.337Z
+interventions:
+  sessions: 114
+  interrupt: 0
+  toolReject: 0
+  correction: 0
+prompts: 21
+tokens:
+  input: 42
+  output: 50774
+  cacheRead: 974776
+  cacheCreation: 67545
+daily:
+  2026-09-19:
+    sessionsEnded: 7
+    sessionsSucceeded: 7
+    promptTurns: 16
+    durationMs: 2901445
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-09-20:
+    sessionsEnded: 2
+    sessionsSucceeded: 2
+    promptTurns: 5
+    durationMs: 1548824
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 974776
+    cacheEligibleInputTokens: 1042363
