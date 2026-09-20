@@ -1,0 +1,18 @@
+version: 1
+projects:
+  - id: test
+    name: test
+    description: Test project namespace
+    resources:
+      knowledge: []
+      skills: []
+      learnings: []
+      agents: []
+  - id: teamai-cli
+    name: teamai-cli
+    description: TeamAI CLI project namespace
+    resources:
+      knowledge: []
+      skills: []
+      learnings: []
+      agents: []
