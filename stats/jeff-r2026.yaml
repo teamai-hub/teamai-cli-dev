@@ -1,5 +1,5 @@
 username: jeff-r2026
-updatedAt: 2026-09-20T12:05:59.251Z
+updatedAt: 2026-09-20T12:44:20.331Z
 skills:
   teamai:
     count: 4
@@ -8,16 +8,16 @@ skills:
     count: 1
     lastUsed: 2026-09-20T11:21:15.337Z
 interventions:
-  sessions: 116
-  interrupt: 2
+  sessions: 117
+  interrupt: 3
   toolReject: 2
   correction: 0
-prompts: 33
+prompts: 40
 tokens:
-  input: 188
-  output: 113353
-  cacheRead: 8184387
-  cacheCreation: 258300
+  input: 266
+  output: 140471
+  cacheRead: 13949531
+  cacheCreation: 425450
 daily:
   2026-09-19:
     sessionsEnded: 7
@@ -32,10 +32,10 @@ daily:
   2026-09-20:
     sessionsEnded: 4
     sessionsSucceeded: 3
-    promptTurns: 17
-    durationMs: 3792404
+    promptTurns: 23
+    durationMs: 5000865
     sessionsCorrected: 0
     pricedRequests: 0
     costMicros: 0
-    cacheReadTokens: 8184387
-    cacheEligibleInputTokens: 8442875
+    cacheReadTokens: 13949531
+    cacheEligibleInputTokens: 14375247
