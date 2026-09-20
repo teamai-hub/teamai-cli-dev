@@ -7,6 +7,9 @@ projects:
       knowledge: []
       skills:
         - mattpocock
+        - tt-a1i
+        - ayghri
+        - anthropics
       learnings: []
       agents: []
   - id: teamai-cli
@@ -16,5 +19,8 @@ projects:
       knowledge: []
       skills:
         - mattpocock
+        - tt-a1i
+        - ayghri
+        - anthropics
       learnings: []
       agents: []
