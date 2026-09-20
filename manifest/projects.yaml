@@ -6,7 +6,7 @@ projects:
     resources:
       knowledge: []
       skills:
-        - test
+        - mattpocock
       learnings: []
       agents: []
   - id: teamai-cli
@@ -15,6 +15,6 @@ projects:
     resources:
       knowledge: []
       skills:
-        - teamai-cli
+        - mattpocock
       learnings: []
       agents: []
