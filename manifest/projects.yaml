@@ -5,7 +5,8 @@ projects:
     description: Test project namespace
     resources:
       knowledge: []
-      skills: []
+      skills:
+        - test
       learnings: []
       agents: []
   - id: teamai-cli
@@ -13,6 +14,7 @@ projects:
     description: TeamAI CLI project namespace
     resources:
       knowledge: []
-      skills: []
+      skills:
+        - teamai-cli
       learnings: []
       agents: []
