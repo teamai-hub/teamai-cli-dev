@@ -1,12 +1,15 @@
 username: SaulMoro
-updatedAt: 2026-09-21T13:55:13.434Z
-skills: {}
+updatedAt: 2026-09-21T16:28:19.026Z
+skills:
+  tdd:
+    count: 1
+    lastUsed: 2026-09-21T14:10:21.081Z
 interventions:
-  sessions: 3
+  sessions: 4
   interrupt: 0
   toolReject: 0
   correction: 0
-prompts: 1
+prompts: 3
 tokens:
   input: 0
   output: 0
