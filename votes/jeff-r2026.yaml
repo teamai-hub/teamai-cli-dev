@@ -1,0 +1,11 @@
+version: 2
+votes:
+  vertical-clip:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-21T14:51:24.524Z
+  2026-09-02-vertical-clip-whisper-cross-cut:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-21T14:51:25.396Z
+deltas: {}
