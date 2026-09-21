@@ -1,8 +1,14 @@
 username: SaulMoro
-updatedAt: 2026-09-21T07:28:15.201Z
+updatedAt: 2026-09-21T07:49:29.467Z
 skills: {}
 interventions:
-  sessions: 1
+  sessions: 2
   interrupt: 0
   toolReject: 0
   correction: 0
+prompts: 1
+tokens:
+  input: 0
+  output: 0
+  cacheRead: 0
+  cacheCreation: 0
