@@ -7,7 +7,7 @@
 `init` → `pull` → `push` 流程。
 
 这**不是**用来拷贝的模板。要初始化你自己的团队仓库，请从
-[`teamai-hub/template-backend`](https://github.com/teamai-hub/template-backend) 开始。
+[`teamai-hub/teamai-template`](https://github.com/teamai-hub/teamai-template) 开始。
 
 ## 用法
 

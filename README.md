@@ -7,7 +7,7 @@ contributors. Point your local CLI build at this repo to exercise the real
 `init` → `pull` → `push` flow end to end while developing the CLI itself.
 
 This is **not** a template to copy. To bootstrap your own team repo, start from
-[`teamai-hub/template-backend`](https://github.com/teamai-hub/template-backend) instead.
+[`teamai-hub/teamai-template`](https://github.com/teamai-hub/teamai-template) instead.
 
 ## Usage
 
