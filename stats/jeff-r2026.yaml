@@ -1,5 +1,5 @@
 username: jeff-r2026
-updatedAt: 2026-09-23T08:41:38.882Z
+updatedAt: 2026-09-23T08:44:41.631Z
 skills:
   teamai:
     count: 7
@@ -10,12 +10,15 @@ skills:
   tgit:
     count: 2
     lastUsed: 2026-09-23T08:29:58.411Z
+  npm-beta-release:
+    count: 1
+    lastUsed: 2026-09-23T08:44:40.250Z
 interventions:
-  sessions: 191
+  sessions: 192
   interrupt: 3
   toolReject: 3
   correction: 16
-prompts: 202
+prompts: 203
 tokens:
   input: 864
   output: 439499
