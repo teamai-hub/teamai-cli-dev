@@ -1,5 +1,5 @@
 username: SaulMoro
-updatedAt: 2026-09-23T13:04:49.660Z
+updatedAt: 2026-09-23T13:07:53.780Z
 skills:
   tdd:
     count: 2
@@ -20,8 +20,8 @@ skills:
     count: 1
     lastUsed: 2026-09-23T08:37:40.687Z
   unslop:
-    count: 3
-    lastUsed: 2026-09-23T11:11:52.295Z
+    count: 4
+    lastUsed: 2026-09-23T13:05:23.298Z
   show-me:
     count: 2
     lastUsed: 2026-09-23T11:12:51.714Z
@@ -29,11 +29,11 @@ skills:
     count: 1
     lastUsed: 2026-09-23T11:44:49.967Z
 interventions:
-  sessions: 47
+  sessions: 48
   interrupt: 29
   toolReject: 16
   correction: 0
-prompts: 481
+prompts: 482
 tokens:
   input: 70073
   output: 4508985
@@ -66,7 +66,7 @@ daily:
     sessionsEnded: 14
     sessionsSucceeded: 8
     promptTurns: 142
-    durationMs: 33159322
+    durationMs: 33340206
     sessionsCorrected: 0
     pricedRequests: 2029
     costMicros: 354367098
