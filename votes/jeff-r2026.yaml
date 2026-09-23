@@ -45,9 +45,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:08:19.709Z
   给-ci-加代码-slop-检测-slopcodebench-指标在-ts-上能还原多少-2026-09-16-j9buth:
-    recalled_count: 1
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-09-23T07:07:40.669Z
+    last_recalled_at: 2026-09-23T07:50:48.980Z
   teamai:
     recalled_count: 1
     upvoted_count: 0
@@ -56,4 +56,24 @@ votes:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:07:41.271Z
+  把-per-worktree-文件的所有权索引搬进共享容器-一个系统性盲区-2026-09-07-8xtghl:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T07:50:48.980Z
+  2026-09-09-跨-AI-工具-Stop-Hook-注入模型上下文的兼容性陷阱:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T07:50:49.224Z
+  2026-08-20-分词改动的索引兼容规则-减-token-安全-增-token-须-bump-版本:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T07:50:49.224Z
+  2026-07-20-用占位文件触发-CI-流水线做端到端验证:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T07:50:41.739Z
+  review-claudemd:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T07:50:48.980Z
 deltas: {}
