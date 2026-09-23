@@ -9,9 +9,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-21T14:51:25.396Z
   teamai-hook-注入-scope-分叉导致-project-模式不自动拉取-skill-2026-09-01-gd7pcg:
-    recalled_count: 6
+    recalled_count: 8
     upvoted_count: 0
-    last_recalled_at: 2026-09-23T07:08:19.709Z
+    last_recalled_at: 2026-09-23T08:30:37.290Z
   2026-08-27-chore-sync-GitHub-main-v0-21-0-to-tgit-301-347-:
     recalled_count: 4
     upvoted_count: 0
@@ -29,17 +29,17 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:07:40.919Z
   2026-08-06-双注册表发布-公开-GitHub-release-镜像到内部-tnpm-的同步策略:
-    recalled_count: 2
+    recalled_count: 3
     upvoted_count: 0
-    last_recalled_at: 2026-09-23T07:07:40.669Z
+    last_recalled_at: 2026-09-23T08:30:37.290Z
   2026-08-06-chore-sync-tgit-main-to-GitHub-main-v0-18-0-main-2:
     recalled_count: 3
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:07:40.919Z
   收录第三方开源-skill-为何不做自动上游追踪-source-add-的-e2e-测试手法-2026-09-08-itwhpd:
-    recalled_count: 3
+    recalled_count: 4
     upvoted_count: 0
-    last_recalled_at: 2026-09-23T07:08:19.709Z
+    last_recalled_at: 2026-09-23T08:30:36.544Z
   skill-creator:
     recalled_count: 3
     upvoted_count: 0
@@ -53,9 +53,9 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:07:41.271Z
   teamai-cli-release-e2e:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-09-23T07:07:41.271Z
+    last_recalled_at: 2026-09-23T08:30:36.544Z
   把-per-worktree-文件的所有权索引搬进共享容器-一个系统性盲区-2026-09-07-8xtghl:
     recalled_count: 2
     upvoted_count: 0
@@ -69,11 +69,19 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:50:49.224Z
   2026-07-20-用占位文件触发-CI-流水线做端到端验证:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-09-23T07:50:41.739Z
+    last_recalled_at: 2026-09-23T08:30:37.290Z
   review-claudemd:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-09-23T07:50:48.980Z
+  2026-08-06-避免把-CLI-自身-dogfooding-产物误提交到仓库根目录:
+    recalled_count: 2
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T08:30:37.290Z
+  rainbow-config:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-09-23T08:30:37.290Z
 deltas: {}
