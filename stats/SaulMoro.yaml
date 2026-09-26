@@ -1,5 +1,5 @@
 username: SaulMoro
-updatedAt: 2026-09-26T11:17:16.633Z
+updatedAt: 2026-09-26T11:25:11.287Z
 skills:
   tdd:
     count: 2
@@ -8,8 +8,8 @@ skills:
     count: 33
     lastUsed: 2026-09-25T19:22:39.529Z
   code-review:
-    count: 28
-    lastUsed: 2026-09-25T20:35:22.200Z
+    count: 29
+    lastUsed: 2026-09-26T11:09:55.450Z
   resolving-merge-conflicts:
     count: 5
     lastUsed: 2026-09-25T03:54:00.114Z
@@ -35,8 +35,8 @@ skills:
     count: 2
     lastUsed: 2026-09-24T09:46:36.675Z
   grilling:
-    count: 16
-    lastUsed: 2026-09-25T16:46:01.639Z
+    count: 17
+    lastUsed: 2026-09-26T11:19:13.364Z
   to-tickets:
     count: 2
     lastUsed: 2026-09-24T14:56:55.237Z
@@ -67,12 +67,18 @@ skills:
   orca-cli:
     count: 1
     lastUsed: 2026-09-26T08:25:41.035Z
+  grill-with-docs:
+    count: 1
+    lastUsed: 2026-09-26T11:19:09.766Z
+  domain-modeling:
+    count: 1
+    lastUsed: 2026-09-26T11:19:13.554Z
 interventions:
-  sessions: 248
+  sessions: 249
   interrupt: 43
   toolReject: 20
   correction: 38
-prompts: 2488
+prompts: 2489
 tokens:
   input: 133256
   output: 17787834
