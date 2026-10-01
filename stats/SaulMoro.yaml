@@ -1,12 +1,12 @@
 username: SaulMoro
-updatedAt: 2026-10-01T08:51:15.798Z
+updatedAt: 2026-10-01T09:56:48.464Z
 skills:
   tdd:
-    count: 11
-    lastUsed: 2026-09-30T18:33:25.927Z
+    count: 12
+    lastUsed: 2026-10-01T09:43:11.835Z
   pr:
-    count: 41
-    lastUsed: 2026-09-28T16:19:12.255Z
+    count: 42
+    lastUsed: 2026-10-01T09:11:07.107Z
   code-review:
     count: 43
     lastUsed: 2026-09-30T22:53:52.596Z
@@ -20,8 +20,8 @@ skills:
     count: 2
     lastUsed: 2026-09-24T09:46:30.794Z
   unslop:
-    count: 14
-    lastUsed: 2026-10-01T08:20:44.415Z
+    count: 15
+    lastUsed: 2026-10-01T09:08:17.593Z
   show-me:
     count: 10
     lastUsed: 2026-09-28T12:50:50.481Z
@@ -47,8 +47,8 @@ skills:
     count: 4
     lastUsed: 2026-09-29T23:31:03.575Z
   implement-spec:
-    count: 4
-    lastUsed: 2026-09-29T23:42:24.669Z
+    count: 5
+    lastUsed: 2026-10-01T09:40:22.244Z
   humanizer:
     count: 3
     lastUsed: 2026-09-25T11:40:39.182Z
@@ -56,8 +56,8 @@ skills:
     count: 2
     lastUsed: 2026-09-24T17:44:54.282Z
   bro:
-    count: 1
-    lastUsed: 2026-09-24T22:21:52.577Z
+    count: 2
+    lastUsed: 2026-10-01T09:04:43.841Z
   skill-sync:
     count: 13
     lastUsed: 2026-09-25T06:19:53.409Z
@@ -80,16 +80,16 @@ skills:
     count: 1
     lastUsed: 2026-09-29T22:01:28.426Z
 interventions:
-  sessions: 489
+  sessions: 490
   interrupt: 44
   toolReject: 20
   correction: 46
-prompts: 3860
+prompts: 3881
 tokens:
-  input: 3664703
-  output: 28401299
-  cacheRead: 10997384678
-  cacheCreation: 90497359
+  input: 3665455
+  output: 28712642
+  cacheRead: 11062134985
+  cacheCreation: 91814087
 daily:
   2026-09-21:
     sessionsEnded: 3
@@ -202,13 +202,13 @@ daily:
     cacheEligibleInputTokens: 150279282
     priceVersion: anthropic-2026-09-09
   2026-10-01:
-    sessionsEnded: 17
-    sessionsSucceeded: 17
-    promptTurns: 44
-    durationMs: 11594931
+    sessionsEnded: 20
+    sessionsSucceeded: 20
+    promptTurns: 67
+    durationMs: 21132052
     sessionsCorrected: 0
-    pricedRequests: 435
-    costMicros: 46582096
-    cacheReadTokens: 67204981
-    cacheEligibleInputTokens: 68169908
+    pricedRequests: 802
+    costMicros: 94974181
+    cacheReadTokens: 131955288
+    cacheEligibleInputTokens: 134237695
     priceVersion: anthropic-2026-09-09
