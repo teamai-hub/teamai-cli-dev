@@ -1,12 +1,12 @@
 username: SaulMoro
-updatedAt: 2026-10-06T15:33:24.539Z
+updatedAt: 2026-10-06T16:14:31.670Z
 skills:
   tdd:
     count: 24
     lastUsed: 2026-10-02T07:58:41.852Z
   pr:
-    count: 54
-    lastUsed: 2026-10-03T16:01:27.301Z
+    count: 56
+    lastUsed: 2026-10-06T15:36:51.848Z
   code-review:
     count: 55
     lastUsed: 2026-10-01T23:05:34.074Z
@@ -85,17 +85,20 @@ skills:
   review-agent:
     count: 1
     lastUsed: 2026-10-02T09:15:30.237Z
+  technical-writing:
+    count: 1
+    lastUsed: 2026-10-06T15:44:21.083Z
 interventions:
-  sessions: 586
+  sessions: 587
   interrupt: 47
   toolReject: 21
   correction: 46
-prompts: 4333
+prompts: 4341
 tokens:
-  input: 13432010
-  output: 32518040
-  cacheRead: 12142016834
-  cacheCreation: 104740603
+  input: 13432106
+  output: 32540888
+  cacheRead: 12144427773
+  cacheCreation: 104863564
 daily:
   2026-09-21:
     sessionsEnded: 3
@@ -261,12 +264,13 @@ daily:
     cacheReadTokens: 28906112
     cacheEligibleInputTokens: 30004878
   2026-10-06:
-    sessionsEnded: 4
-    sessionsSucceeded: 4
-    promptTurns: 5
-    durationMs: 295882
+    sessionsEnded: 7
+    sessionsSucceeded: 7
+    promptTurns: 15
+    durationMs: 1341093
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
-    cacheReadTokens: 1289216
-    cacheEligibleInputTokens: 1386290
+    pricedRequests: 47
+    costMicros: 2545660
+    cacheReadTokens: 3700155
+    cacheEligibleInputTokens: 3920286
+    priceVersion: anthropic-2026-09-09
