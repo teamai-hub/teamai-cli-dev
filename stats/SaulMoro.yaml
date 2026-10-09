@@ -1,15 +1,15 @@
 username: SaulMoro
-updatedAt: 2026-10-09T18:33:21.274Z
+updatedAt: 2026-10-09T19:49:11.550Z
 skills:
   tdd:
-    count: 65
-    lastUsed: 2026-10-08T16:19:40.412Z
+    count: 66
+    lastUsed: 2026-10-09T19:09:11.143Z
   pr:
     count: 60
     lastUsed: 2026-10-09T07:08:29.714Z
   code-review:
-    count: 56
-    lastUsed: 2026-10-07T16:34:41.696Z
+    count: 58
+    lastUsed: 2026-10-09T19:22:08.835Z
   resolving-merge-conflicts:
     count: 8
     lastUsed: 2026-10-02T05:05:02.574Z
@@ -91,17 +91,20 @@ skills:
   chief-of-staff:
     count: 1
     lastUsed: 2026-10-08T16:16:05.700Z
+  typescript-best-practices:
+    count: 1
+    lastUsed: 2026-10-09T19:22:15.671Z
 interventions:
   sessions: 702
   interrupt: 48
   toolReject: 21
   correction: 59
-prompts: 5428
+prompts: 5445
 tokens:
-  input: 15863040
-  output: 37620168
-  cacheRead: 14081492457
-  cacheCreation: 127714523
+  input: 15863486
+  output: 37804740
+  cacheRead: 14124261960
+  cacheCreation: 128191961
 daily:
   2026-09-21:
     sessionsEnded: 3
@@ -302,11 +305,11 @@ daily:
   2026-10-09:
     sessionsEnded: 16
     sessionsSucceeded: 16
-    promptTurns: 78
-    durationMs: 15431355
+    promptTurns: 95
+    durationMs: 22288569
     sessionsCorrected: 0
-    pricedRequests: 694
-    costMicros: 90639246
-    cacheReadTokens: 94368306
-    cacheEligibleInputTokens: 95573229
+    pricedRequests: 917
+    costMicros: 119624542
+    cacheReadTokens: 137137809
+    cacheEligibleInputTokens: 138820616
     priceVersion: anthropic-2026-09-09
