@@ -1,5 +1,5 @@
 username: SaulMoro
-updatedAt: 2026-10-10T06:04:10.856Z
+updatedAt: 2026-10-10T06:07:52.845Z
 skills:
   tdd:
     count: 66
@@ -89,17 +89,17 @@ skills:
     count: 1
     lastUsed: 2026-10-06T15:44:21.083Z
   chief-of-staff:
-    count: 1
-    lastUsed: 2026-10-08T16:16:05.700Z
+    count: 2
+    lastUsed: 2026-10-10T06:07:47.057Z
   typescript-best-practices:
     count: 1
     lastUsed: 2026-10-09T19:22:15.671Z
 interventions:
-  sessions: 702
+  sessions: 703
   interrupt: 48
   toolReject: 21
   correction: 59
-prompts: 5449
+prompts: 5450
 tokens:
   input: 15863988
   output: 38049169
