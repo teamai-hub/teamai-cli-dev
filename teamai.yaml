@@ -3,6 +3,8 @@ description: TeamAI shared resources
 repo: https://github.com/teamai-hub/teamai-cli-dev.git
 provider: github
 sharing:
+  gitExclude:
+    enabled: true
   rules:
     enforced: []
   docs:
