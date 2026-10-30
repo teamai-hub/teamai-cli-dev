@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "repoIdentity": "github.com/Tencent/teamai-cli",
+  "updatedAt": "2026-10-30T07:48:25.341Z",
+  "sessions": [
+    {
+      "sessionName": "claude-code_test_20261030",
+      "author": "Saul Moro",
+      "platform": "claude-code",
+      "title": "test",
+      "cwd": "/Users/pw-smoro/Repositorios/teamai-cli",
+      "repoIdentity": "github.com/Tencent/teamai-cli",
+      "messageCount": 32,
+      "createdAt": "2026-10-30T07:45:28.623Z",
+      "updatedAt": "2026-10-30T07:47:45.976Z",
+      "status": "active",
+      "sessionId": "6e6403a5-6ada-4c5a-95a3-1f302fe92912"
+    }
+  ]
+}
