@@ -1,15 +1,18 @@
 username: hsuchifeng
-updatedAt: 2026-10-26T12:55:01.367Z
+updatedAt: 2026-11-02T06:52:10.761Z
 skills:
   tnpm-beta-release:
     count: 2
     lastUsed: 2026-10-13T10:52:33.859Z
+  teamai:
+    count: 1
+    lastUsed: 2026-10-26T12:55:42.187Z
 interventions:
-  sessions: 109
+  sessions: 110
   interrupt: 0
   toolReject: 0
   correction: 13
-prompts: 408
+prompts: 409
 tokens:
   input: 86
   output: 34017
@@ -96,3 +99,15 @@ daily:
     costMicros: 0
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
+attended:
+  interventions:
+    sessions: 1
+    interrupt: 0
+    toolReject: 0
+    correction: 0
+  prompts: 1
+  tokens:
+    input: 0
+    output: 0
+    cacheRead: 0
+    cacheCreation: 0
